@@ -40,7 +40,7 @@ def main():
         
         elif choice == '4':
             print("Goodbye!")
-            breaK
+            break
         
         else:
             print("Invalid choice. Please try again.")
