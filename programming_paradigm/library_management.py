@@ -49,7 +49,7 @@ class Library:
                 print(book)
         else:
             print("No available books.")
-          from library_management import Book, Library
+from library_management import Book, Library
 
 def main():
     # Setup a small library
@@ -73,4 +73,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
